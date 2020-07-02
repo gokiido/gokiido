@@ -24,7 +24,13 @@
         </ul>
         <h2>All about me!</h2>
         <p>I was born in İzmir Turkey. I have a older sister and I was grow up in İzmir too. When I was 8 I was going to start basketboll and ı played basketball until covid-19 pandemic days and after that ı left basketball. I really want to be a outhor and programmer. This is my dream. I started to learn code from Khan Academy and so here I am. I really praciate you to read this text.
+        <?php 
+
+            <form action="index.php" method="get">
+            Name: <input type="text" name="name">
+            <input type="submit">
         
+         ?>
         
         <h2 id="meyra">Meyra/Sinan Akyüz</h2>
         <h3>About book:</h3>
